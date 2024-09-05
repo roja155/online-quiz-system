@@ -8,8 +8,8 @@ const port = 8000;
 
 const db = mysql.createConnection({
     host: 'localhost',
-    user: 'root', // Replace with your MySQL username
-    password: 'rojan@155', // Replace with your MySQL password
+    user: '.....', // Replace with your MySQL username
+    password: '.....', // Replace with your MySQL password
     database: 'quizdb'
 });
 
